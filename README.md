@@ -2,7 +2,7 @@
 
 Version: **0.0.1**
 
-Receives a live camera URL input and return a screen with the live bradcast image overlayed with identification for some objects
+Receives a live camera URL input and return a screen with the live broadcast image and overlay it with identification for some objects
 
 <p>
   <a href="#">
