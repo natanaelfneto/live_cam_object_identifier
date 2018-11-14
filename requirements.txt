@@ -1,0 +1,5 @@
+imutils==0.5.1
+numpy==1.15.4
+opencv-python==3.4.3.18
+pypiwin32==223
+pywin32==224

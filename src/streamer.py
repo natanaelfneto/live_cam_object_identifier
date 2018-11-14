@@ -170,9 +170,6 @@ def args(args):
     # argparser init
     parser = argparse.ArgumentParser(description=short_description)
 
-    # prevent follow and lines flag to be setted at the same time
-    group = parser.add_mutually_exclusive_group(required=False)
-
     # files with limited lines
     parser.add_argument(
         'sources',
