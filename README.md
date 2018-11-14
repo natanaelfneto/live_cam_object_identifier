@@ -48,7 +48,7 @@ python src/streamer.py "http://semobrn.sytes.net:1935/live/21.stream/playlist.m3
 **OBS**: _this example url is a public security camera from Natal, Brazil_
 
 | Field     | Obrigatory    | Description                       | Input type        | Default value
-| ---       | ---           |            
+| ---       | ---           | ---                               | ---               | ---
 | sources   | yes           | source to have objects identified | Array of Strings  | None
 | queues    | no            | set queue maximum size for frames | Integer           | 60
 | help      | no            | show this help message and exit   | --                | --
